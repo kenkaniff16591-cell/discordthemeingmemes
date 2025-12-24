@@ -42,7 +42,7 @@ body {
 
     /* dms button options */
     --custom-dms-icon: custom; /* off: use default discord icon, hide: remove icon entirely, custom: use custom icon */
-    --dms-icon-svg-url: url('https://cdn.discordapp.com/attachments/1411632617517875263/1453174797805813780/mpv_screenshot_00_00_01_AterisWallpaper.mp4.svg?ex=694c7dfe&is=694b2c7e&hm=4bf89b997958be55eb5b4bb7b5b3d6a13ea70aab24bea06eb3557af8fbd2bf93&'); /* icon svg url. MUST BE A SVG. */
+    --dms-icon-svg-url: url('https://raw.githubusercontent.com/kenkaniff16591-cell/discordthemeingmemes/refs/heads/main/mpv%20screenshot%2000_00_01%20AterisWallpaper.mp4.svg?token=GHSAT0AAAAAADR3GWY2VBP5V2TAJ6VILV722KLF47Q'); /* icon svg url. MUST BE A SVG. */
     --dms-icon-svg-size: 90%; /* size of the svg (css mask-size property) */
     --dms-icon-color-before: var(--icon-subtle); /* normal icon color */
     --dms-icon-color-after: var(--white); /* icon color when button is hovered/selected */
